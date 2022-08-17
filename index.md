@@ -4,11 +4,11 @@
 
 - Đa ѕố các project open ѕource đều để ở GitHub ᴠà nhiều bạn ấn nút “Doᴡnload” để tải code ᴠề. Làm như ᴠậу ѕẽ bất tiện đối ᴠới các project lớn mỗi khi có update code thì bạn lại phải doᴡnload toàn bộ. Bài nàу ѕẽ hướng dẫn các bạn ѕử dụng Sourcetree – 1 công cụ ѕử dụng Git để công ᴠiệc dễ dàng hơn. Với giao diện GUI thân thiện các bạn có thể dễ dàng хem log của code. Các thao tác pull, commit, puѕh,… đều dễ dàng hơn ᴠiệc nhớ các dòng lệnh dài dòng. Để đầu óc còn ѕuу nghĩ ᴠiệc khác ᴠà khỏi lộn хộn với hàng đống cú pháp bạn phải thao tác hàng ngày.
 
-## Git là gì?
+## Github là gì?
 
-- Để làm việc với **Git** bạn phải hiểu **Git** là gì? và dùng để làm gì ?
+- Để làm việc với **Github** bạn phải hiểu **Github** là gì? và dùng để làm gì ?
 - Theo wikipedia: **Github**  là phần mềm quản lý mã nguồn phân tán được phát triển bởi Linus Torvalds vào năm 2005, ban đầu dành cho việc phát triển nhân Linux. Hiện   nay, Git trở thành một trong các phần mềm quản lý mã nguồn phổ biến nhất. Git là phần mềm mã nguồn mở được phân phối theo giấy phép công cộng GPL2.
-- Để bắt sử dụng **source tree** chúng ta phải tạo 1 repository `repository là nơi sẽ ghi lại trạng thái của thư mục và file **trên Git**` .
+- Để bắt sử dụng **source tree** chúng ta phải tạo 1 repository (`repository là nơi sẽ ghi lại trạng thái của thư mục và file trên Git`).
   Các bước cụ thể để tạo 1 repository trên github:
 ### Bước 1: đăng nhập vào github -> tạo repository 
 
